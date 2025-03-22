@@ -3,7 +3,7 @@ name: Java CI with Gradle
 on: 
   push:
     branches:
-      - main  # або master, залежно від вашої гілки
+      - master  # або master, залежно від вашої гілки
 
 jobs:
   build:
